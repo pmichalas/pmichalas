@@ -1,6 +1,6 @@
 ### Paris Michalas
 
-Partner at [NetProjects](https://netprojects.com) (Internet Projects Ltd), Athens.
+Partner at [NetProjects](https://netprojects.com) (Internet Projects Ltd)
 
 I build and test open models on Apple Silicon. Each port is checked against the original model before release. The builds are published on [huggingface.co/netprojects](https://huggingface.co/netprojects) and the code under [internet-projects](https://github.com/internet-projects).
 
