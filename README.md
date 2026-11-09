@@ -12,5 +12,5 @@ I build and test open models on Apple Silicon. Each port is checked against the 
 - [dory-mlx](https://github.com/internet-projects/dory-mlx): NVIDIA Nemotron-Labs Dory 1.0 4B, a looped reasoning model, plus [mlx-lm PR 1988](https://github.com/ml-explore/mlx-lm/pull/1988)
 - [sensenova-loop-mlx](https://github.com/internet-projects/sensenova-loop-mlx): SenseNova-Loop-9B-Preview, a looped model with two-stream mHC (8 / 6 / 4-bit builds)
 - [cosmos3-edge-mlx](https://github.com/internet-projects/cosmos3-edge-mlx): NVIDIA Cosmos3-Edge, a vision-language reasoner for text, images and video (8 / 6-bit builds) and a video generator (8-bit / bf16 builds)
-- [dspine-hybrid-mlx](https://github.com/internet-projects/dspine-hybrid-mlx): Tencent DSpine speculative decoding for Qwen3.8-27B, a hybrid model (1.9x faster on 4-bit, up to 4.3x on bf16)
+- [dspine-hybrid-mlx](https://github.com/internet-projects/dspine-hybrid-mlx): Tencent DSpine speculative decoding for Qwen3.8-27B, a hybrid model (2.0x faster on 4-bit, 2.9x on 8-bit, 4.3x on bf16)
 - [nemotron-retrieval-mlx](https://github.com/internet-projects/nemotron-retrieval-mlx): NVIDIA Nemotron 3.5 Embed / Rerank retrieval models, text and page images
