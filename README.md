@@ -5,6 +5,7 @@ Partner at [NetProjects](https://netprojects.com) (Internet Projects Ltd)
 I build and test open models on Apple Silicon. Each port is checked against the original model before release. The builds are published on [huggingface.co/netprojects](https://huggingface.co/netprojects) and the code under [internet-projects](https://github.com/internet-projects).
 
 **MLX ports**
+- [WeMM-Ecom MLX](https://huggingface.co/netprojects/WeMM-Ecom-35B-A3B-MLX-6bit): Tencent WeChat Vision's e-commerce vision-language models (Qwen3.5 fine-tunes; images, video, Chinese + English, hybrid thinking) for Apple Silicon: [35B-A3B](https://huggingface.co/netprojects/WeMM-Ecom-35B-A3B-MLX-6bit), [9B](https://huggingface.co/netprojects/WeMM-Ecom-9B-MLX-6bit), [4B](https://huggingface.co/netprojects/WeMM-Ecom-4B-MLX-8bit), [2B](https://huggingface.co/netprojects/WeMM-Ecom-2B-MLX-8bit), [0.8B](https://huggingface.co/netprojects/WeMM-Ecom-0.8B-MLX-8bit) (12 builds on Hugging Face)
 - [h2o-lightning-mlx](https://github.com/internet-projects/h2o-lightning-mlx): H2O.ai's H2O-Lightning-4B decision model with H2O's official shim (two-way reading, Box questions)
 - [glide-mlx](https://github.com/internet-projects/glide-mlx): Fastino's GLiDE 27B decision model
 - [granite-switch-mlx](https://github.com/internet-projects/granite-switch-mlx): IBM Granite Switch 4.1.1 (chat, decision and guardian adapters)
